@@ -1,7 +1,7 @@
 # Data-Science-and-Communication-in-Smart-Cities
 # 目錄
 + [簡介](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
-+ [自我介紹](https://github.com/yuancc12/Image-Processing#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
++ [自我介紹](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [Website](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#website)
 + [Review](https://github.com/yuancc12/Image-Processing/blob/main/README.md#%E8%AA%B2%E5%A0%82%E8%AC%9B%E7%BE%A9)
 
