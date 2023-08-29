@@ -1,17 +1,17 @@
 # Data-Science-and-Communication-in-Smart-Cities
 # Outline
-+ [簡介](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
-+ [自我介紹](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
++ [Introduction](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
++ [Profile](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [Website](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#website)
 + [Review](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#review)
 + [How To Install QGIS??](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#how-to-install-qgis)
 
 # Introduction
-**授課教師:Professor Wang**
+**Professor:Professor Chao Wang**
 
-**上課時間：Monday-Friday13.00-17.00**
+**Time：Monday-Friday13.00-17.00**
 
-**上課地點：Online Classroom**
+**CLassroom：Google Meet**
 ***
 # Profile
 **Name**：[孫源智](https://yuancc12.github.io/web/mypages/)\
