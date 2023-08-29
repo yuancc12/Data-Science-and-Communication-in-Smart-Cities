@@ -1,28 +1,28 @@
 # Data-Science-and-Communication-in-Smart-Cities
-# 目錄
+# Outline
 + [簡介](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [Website](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#website)
 + [Review](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#review)
-+ [How To Install QGIS??]()
++ [How To Install QGIS??](https://github.com/yuancc12/Data-Science-and-Communication-in-Smart-Cities/blob/main/README.md#how-to-install-qgis)
 
-# 簡介
+# Introduction
 **授課教師:Professor Wang**
 
 **上課時間：Monday-Friday13.00-17.00**
 
 **上課地點：Online Classroom**
 ***
-# 自我介紹
-**姓名**：[孫源智](https://yuancc12.github.io/web/mypages/)\
-**學校**：[國立臺灣師範大學](https://www.ntnu.edu.tw/)\
-**主修**：[科技應用與人力資源發展學系](https://www.tahrd.ntnu.edu.tw/)\
-**雙主修**：[學習科學學士學位學程](https://www.upls.ntnu.edu.tw/)\
-**學分學程**：資訊科技應用學分學程(修畢)\
+# Profile
+**Name**：[孫源智](https://yuancc12.github.io/web/mypages/)\
+**University**：[國立臺灣師範大學](https://www.ntnu.edu.tw/)\
+**Major**：[科技應用與人力資源發展學系](https://www.tahrd.ntnu.edu.tw/)\
+**Double Major**：[學習科學學士學位學程](https://www.upls.ntnu.edu.tw/)\
+**Credit Course**：資訊科技應用學分學程(修畢)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;學習與資訊學分學程(在修)\
-**系級**：科技系三年級乙班\
+**Class**：科技系三年級乙班\
 **E-mail**：ydsoon02@gmail.com\
-**相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
+**Skills**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
 # Website
 + [Link](https://web.ntnu.edu.tw/~cw/icoil/)
